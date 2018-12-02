@@ -4,3 +4,5 @@ let studentId = prompt("Enter Student id"),
 if (selStudent) {
   selStudent.style.backgroundColor = "green";
 }
+
+//
