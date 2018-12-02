@@ -4,3 +4,5 @@ function insertAfter(newNode, currNode) {
   currNode.parentNode.insertBefore(newNode, currNode.nextSibling);
 }
 insertAfter(firstElem, secondElem);
+
+//
