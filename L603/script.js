@@ -6,3 +6,4 @@ function removeAllChild(elem) {
 }
 
 removeAllChild(parentElem);
+//
